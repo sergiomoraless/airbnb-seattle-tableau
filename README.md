@@ -21,14 +21,13 @@ This project analyzes AirBnB listing data from Seattle neighborhoods — primari
 
 ## Dashboard Preview
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/Dashboard%201%20(1).png)
 
 ---
 
 ## Dataset
 
 **Source:** AirBnB Seattle listing data (scraped January 2016)  
-**File:** `Tableau_Full_Project.xlsx`  
 **Records:** ~100 listings across Seattle neighborhoods  
 **Key fields:** listing ID, neighborhood, property type, room type, price, host details, latitude/longitude, review scores
 
@@ -47,15 +46,6 @@ This project analyzes AirBnB listing data from Seattle neighborhoods — primari
 - Entire home/apartment listings command significantly higher prices than private rooms
 - A small number of superhosts account for a disproportionate share of listings
 - Pricing clusters are visible geographically, with waterfront-adjacent listings at a premium
-
----
-
-## How to Run Locally
-
-1. Download `Tableau_Full_Project.xlsx` from this repo
-2. Open Tableau Desktop or Tableau Public
-3. Connect to the Excel file as a data source
-4. Rebuild or explore the workbook
 
 ---
 
